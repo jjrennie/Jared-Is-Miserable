@@ -22,3 +22,4 @@ You will need the following programs installed:
 The "easiest" way is to install these is by installing <a href='https://www.anaconda.com/' target="_blank">Anaconda</a>, and then applying <a href='https://conda-forge.org/' target="_blank">conda-forge</a>. Afterward, then you can install the above packages. 
 
 ### Launch now with Binder:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jjrennie/Jared-Is-Miserable/HEAD?labpath=JIM.ipynb)
